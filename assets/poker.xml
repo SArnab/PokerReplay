@@ -1,0 +1,83 @@
+<hand>
+	<players>
+		<player>
+			<username>San99</username>
+			<chips>1465</chips>
+		</player>
+		<player>
+			<username>j0rma_</username>
+			<chips>3740</chips>
+		</player>
+		<player>
+			<username>DonGull</username>
+			<chips>910</chips>
+		</player>
+		<player>
+			<username>kellyseye1</username>
+			<chips>1410</chips>
+		</player>
+		<player>
+			<username>Wizpil2</username>
+			<chips>1535</chips>
+		</player>
+		<player>
+			<username>Masaa</username>
+			<chips>3000</chips>
+		</player>
+		<player>
+			<username>WhSox21</username>
+			<chips>1440</chips>
+		</player>
+	</players>
+	<actions>
+		<action id="1">
+			<username>San99</username>
+			<value>15</value>
+		</action>
+		<action id="2">
+			<username>j0rma_</username>
+			<value>30</value>
+		</action>
+		<action id="3">	
+			<username>DonGull</username>
+		</action>
+		<action id="4">
+			<username>kellyseye1</username>
+			<value>30</value>
+		</action>
+		<action id="3">
+			<username>Wizpil2</username>
+		</action>
+		<action id="3">
+			<username>Masaa</username>
+		</action>
+		<action id="5">
+			<username>WhSox21</username>
+		</action>
+		<action id="3">
+			<username>San99</username>
+		</action>
+		<action id="3">
+			<username>j0rma_</username>
+		</action>
+		<action id="6">
+			<card>D9</card>
+			<card>S6</card>
+			<card>D2</card>
+		</action>
+		<action id="7">
+			<username>kellyseye1</username>
+			<value>60</value>
+		</action>
+		<action id="3">
+			<username>WhSox21</username>
+		</action>
+		<action id="8">
+			<username>kellyseye1</username>
+			<value>165</value>
+		</action>
+		<action id="9">
+			<username>kellyseye1</username>
+		</action>
+	</actions>
+</hand>
